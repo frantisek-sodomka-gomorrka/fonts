@@ -1,0 +1,33 @@
+
+@font-face {
+  font-family: condensed-coding;
+  font-weight: normal;
+  font-style: normal;
+  src: url(condensed-coding.r-webfont.woff2) format('woff2'),
+       url(condensed-coding.r-webfont.woff) format('woff');
+}
+
+@font-face {
+  font-family: condensed-coding;
+  font-weight: bold;
+  font-style: normal;
+  src: url(condensed-coding.b-webfont.woff2) format('woff2'),
+       url(condensed-coding.b-webfont.woff) format('woff');
+}
+
+@font-face {
+  font-family: condensed-coding;
+  font-weight: normal;
+  font-style: italic;
+  src: url(condensed-coding.i-webfont.woff2) format('woff2'),
+       url(condensed-coding.i-webfont.woff) format('woff');
+}
+
+@font-face {
+  font-family: condensed-coding;
+  font-weight: bold;
+  font-style: italic;
+  src: url(condensed-coding.q-webfont.woff2) format('woff2'),
+       url(condensed-coding.q-webfont.woff) format('woff');
+}
+
